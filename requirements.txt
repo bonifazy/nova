@@ -16,7 +16,6 @@ chardet==3.0.4
 charset-normalizer==2.1.0
 click==8.0.4
 colorama==0.4.3
-Cython==0.26.1
 dataclasses==0.8
 distlib==0.3.0
 Django==3.2
